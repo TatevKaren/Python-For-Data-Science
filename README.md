@@ -7,3 +7,5 @@
 - <a href = "https://github.com/TatevKaren/Python-For-Data-Science/blob/main/Python%20Scripts/Demo%203.%20For%20Loops.py"> Demo 3. For Loops.py </a>
 - <a href = "https://github.com/TatevKaren/Python-For-Data-Science/blob/main/Python%20Scripts/Demo%204.%20If%20Else%20Statements.py"> Demo 4. If Else Statements.py </a>
 - <a href = "https://github.com/TatevKaren/Python-For-Data-Science/blob/main/Python%20Scripts/Demo%205.%20Python%20Libraries%20for%20Data%20Science.py"> Demo 5. Python Libraries for Data Science.py </a>
+- <a href = "https://github.com/TatevKaren/Python-For-Data-Science/blob/main/Python%20Scripts/Demo%206%20Loading%20Data.py"> Demo 6. Loading Data.py </a>
+
