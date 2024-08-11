@@ -27,5 +27,15 @@ and many empty houses, such as vacation resorts.
 
 # Tutorial Data
 
+Please check the repository where you can download csv or txt files.
+
+
+
+
+
+
+
+
+
 
 
