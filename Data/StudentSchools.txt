@@ -1,0 +1,10 @@
+Name,SchoolId,Country
+Tina,123,Canada
+Anna,123,Canada
+Zain,204,Canada
+Jim,456,USA
+Tom,89,China
+John,12,UK
+Karen,209,Armenia
+Anna,100,Armenia
+
